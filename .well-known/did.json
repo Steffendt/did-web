@@ -2,19 +2,19 @@
   "@context": [
     "https://www.w3.org/ns/did/v1"
   ],
-  "id": "did:web:Steffendt.github.io",
+  "id": "did:web:steffendt.github.io",
   "verificationMethod": [
     {
-      "id": "did:web:Steffendt.github.io",
+      "id": "did:web:steffendt.github.io#key-1",
       "type": "JsonWebKey2020",
-      "controller": "did:web:Steffendt.github.io",
+      "controller": "did:web:steffendt.github.io",
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "P-256",
-        "x": "f83OJ3D2xF4vJZD_p8zLpvuaeLx3R04A7Q3N73NsD1k",
-        "y": "x_FEzRu9fwFAwG8pWpAxRckvwhzZ6q3iF04U7F4A0jY"
+        "x": "e-aTBQhxSTapYUX3u6Bayf_wwsHYbbrZDkH5Cd-WsF4",
+        "y": "uSVtb_s69Ot5nZt_Ic492JiD8mo00v3IQrcJ-Dkltyc"
       },
-      "x5u": "https://Steffendt.github.io/certs/certificate.pem"
+      "x5u": "https://steffendt.github.io/certs/certificate.pem"
     }
   ]
 }
