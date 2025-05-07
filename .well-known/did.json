@@ -5,7 +5,7 @@
   "id": "did:web:Steffendt.github.io",
   "verificationMethod": [
     {
-      "id": "did:web:Steffendt.github.io#key-1",
+      "id": "did:web:Steffendt.github.io",
       "type": "JsonWebKey2020",
       "controller": "did:web:Steffendt.github.io",
       "publicKeyJwk": {
